@@ -3,9 +3,9 @@
 
 ---
 
-- 🔭 I’m currently working on freelance projects
-- 🌱 Learning: Flutter, Spring Boot, and Redux
-- 🤝 Open to freelance work and collaborations
+- 🔭 I’m currently working on freelance projects  
+- 🌱 Learning: Flutter, Spring Boot, and Redux  
+- 🤝 Open to freelance work and collaborations  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/samuel-tenagne-a99879330/)
 
 ---
@@ -20,8 +20,8 @@
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" alt="HTML5"/>
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" alt="CSS3"/>
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" alt="TailwindCSS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flutter_logo.svg" height="40" alt="Flutter"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Dart-logo.png" height="40" alt="Dart"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" alt="Dart"/>
 </div>
 
 ### Backend  
