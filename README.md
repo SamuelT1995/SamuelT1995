@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on freelance projects  
-- 🌱 Learning: Flutter, Spring Boot, and Redux  
+- 🌱 Learning: Spring Boot
 - 🤝 Open to freelance work and collaborations  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/samuel-tenagne-a99879330/)
 
