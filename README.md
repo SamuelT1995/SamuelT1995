@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Tegegne</h1>
+<h1 align="center">Hi 👋, I'm Samuel Tenagne</h1>
 <h3 align="center">A full-stack freelance developer passionate about modern web & mobile apps</h3>
 
 ---
