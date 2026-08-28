@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on freelance projects  
-- 🌱 Learning: Spring Boot
+- 🌱 Learning: AI
 - 🤝 Open to freelance work and collaborations  
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/samuel-tenagne-a99879330/)
 
